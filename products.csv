@@ -1,0 +1,87 @@
+product_id,product_name,category,price,cost_price
+1,Smartphone - Variant 1,Electronics,9563,6546.27
+2,Earbuds - Variant 1,Electronics,37224,26334.53
+3,Earbuds - Variant 2,Electronics,43339,26896.14
+4,Smartwatch - Variant 1,Electronics,40207,25093.03
+5,Smartwatch - Variant 2,Electronics,13447,7910.9
+6,Laptop - Variant 1,Electronics,41775,25321.97
+7,Laptop - Variant 2,Electronics,40516,29332.91
+8,Laptop - Variant 3,Electronics,38096,26074.24
+9,Power Bank - Variant 1,Electronics,37837,22775.03
+10,Power Bank - Variant 2,Electronics,38149,28550.34
+11,Power Bank - Variant 3,Electronics,35726,26350.71
+12,Bluetooth Speaker - Variant 1,Electronics,44912,27163.1
+13,Bluetooth Speaker - Variant 2,Electronics,34766,19447.85
+14,Bluetooth Speaker - Variant 3,Electronics,28329,17477.33
+15,Tablet - Variant 1,Electronics,2462,1451.04
+16,Tablet - Variant 2,Electronics,22376,14454.75
+17,Tablet - Variant 3,Electronics,2374,1530.55
+18,Camera - Variant 1,Electronics,4367,3069.21
+19,Camera - Variant 2,Electronics,41782,26133.76
+20,Men's T-Shirt - Variant 1,Fashion,821,551.83
+21,Men's T-Shirt - Variant 2,Fashion,568,345.9
+22,Men's T-Shirt - Variant 3,Fashion,1944,1245.49
+23,Women's Kurti - Variant 1,Fashion,2839,1855.12
+24,Women's Kurti - Variant 2,Fashion,1087,794.46
+25,Jeans - Variant 1,Fashion,2383,1399.26
+26,Sneakers - Variant 1,Fashion,546,405.1
+27,Handbag - Variant 1,Fashion,2689,1644.96
+28,Handbag - Variant 2,Fashion,1491,890.84
+29,Sunglasses - Variant 1,Fashion,2027,1253.32
+30,Sunglasses - Variant 2,Fashion,2247,1490.25
+31,Sunglasses - Variant 3,Fashion,2822,1808.51
+32,Formal Shirt - Variant 1,Fashion,1197,807.72
+33,Saree - Variant 1,Fashion,3307,1940.71
+34,Mixer Grinder - Variant 1,Home & Kitchen,803,464.52
+35,Non-stick Pan - Variant 1,Home & Kitchen,4996,2946.76
+36,Non-stick Pan - Variant 2,Home & Kitchen,1992,1433.26
+37,Bedsheet Set - Variant 1,Home & Kitchen,375,268.61
+38,LED Bulb - Variant 1,Home & Kitchen,1108,662.62
+39,Storage Box - Variant 1,Home & Kitchen,4515,2590.25
+40,Storage Box - Variant 2,Home & Kitchen,1769,1185.07
+41,Water Bottle - Variant 1,Home & Kitchen,5245,3713.03
+42,Water Bottle - Variant 2,Home & Kitchen,635,472.23
+43,Water Bottle - Variant 3,Home & Kitchen,865,563.74
+44,Cushion Cover - Variant 1,Home & Kitchen,4283,2965.97
+45,Cushion Cover - Variant 2,Home & Kitchen,4158,2770.21
+46,Cushion Cover - Variant 3,Home & Kitchen,5521,3535.74
+47,Face Wash - Variant 1,Beauty & Personal Care,1019,751.1
+48,Shampoo - Variant 1,Beauty & Personal Care,424,277.2
+49,Shampoo - Variant 2,Beauty & Personal Care,1101,704.89
+50,Perfume - Variant 1,Beauty & Personal Care,798,467.56
+51,Perfume - Variant 2,Beauty & Personal Care,304,218.43
+52,Lipstick - Variant 1,Beauty & Personal Care,1758,1008.6
+53,Lipstick - Variant 2,Beauty & Personal Care,559,335.4
+54,Lipstick - Variant 3,Beauty & Personal Care,1386,764.67
+55,Trimmer - Variant 1,Beauty & Personal Care,979,666.52
+56,Trimmer - Variant 2,Beauty & Personal Care,613,400.39
+57,Moisturizer - Variant 1,Beauty & Personal Care,846,537.85
+58,Moisturizer - Variant 2,Beauty & Personal Care,1070,618.24
+59,Moisturizer - Variant 3,Beauty & Personal Care,1172,697.46
+60,Fiction Novel - Variant 1,Books,405,268.72
+61,Fiction Novel - Variant 2,Books,680,507.3
+62,Self-help Book - Variant 1,Books,291,179.19
+63,Competitive Exam Guide - Variant 1,Books,205,114.06
+64,Competitive Exam Guide - Variant 2,Books,302,183.24
+65,Comic Book - Variant 1,Books,564,368.69
+66,Yoga Mat - Variant 1,Sports & Fitness,1256,795.91
+67,Dumbbells Set - Variant 1,Sports & Fitness,2736,1952.35
+68,Dumbbells Set - Variant 2,Sports & Fitness,2741,1783.01
+69,Dumbbells Set - Variant 3,Sports & Fitness,3850,2752.43
+70,Cricket Bat - Variant 1,Sports & Fitness,3968,2639.62
+71,Cricket Bat - Variant 2,Sports & Fitness,3039,1909.15
+72,Cricket Bat - Variant 3,Sports & Fitness,3738,2343.48
+73,Football - Variant 1,Sports & Fitness,556,404.27
+74,Football - Variant 2,Sports & Fitness,745,545.15
+75,Football - Variant 3,Sports & Fitness,825,536.98
+76,Resistance Band - Variant 1,Sports & Fitness,4344,2790.73
+77,Resistance Band - Variant 2,Sports & Fitness,3321,2322.01
+78,Basmati Rice 5kg - Variant 1,Grocery,768,525.36
+79,Cooking Oil 1L - Variant 1,Grocery,995,575.16
+80,Cooking Oil 1L - Variant 2,Grocery,461,280.67
+81,Green Tea Pack - Variant 1,Grocery,413,263.55
+82,Green Tea Pack - Variant 2,Grocery,541,345.38
+83,Green Tea Pack - Variant 3,Grocery,898,617.89
+84,Dry Fruits Combo - Variant 1,Grocery,610,381.21
+85,Dry Fruits Combo - Variant 2,Grocery,128,79.03
+86,Spices Combo - Variant 1,Grocery,441,246.43
